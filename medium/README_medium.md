@@ -19,3 +19,13 @@
 - _Efficient_
   - Efficient solution: 
 </details>
+
+<details>
+<summary>Container with most water Explanation</summary>
+
+- _Brute_
+  - Brute solution:
+  
+- _Efficient_
+  - Efficient solution: 
+</details>
