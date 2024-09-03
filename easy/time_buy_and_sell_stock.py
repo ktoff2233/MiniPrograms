@@ -9,7 +9,6 @@ class Solution:
             else:
                 l = r
             r += 1
-
         return maxReturn
     
 if __name__ == "__main__":
