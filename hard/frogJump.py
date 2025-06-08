@@ -1,0 +1,2 @@
+def canCross(stones):
+   pass
